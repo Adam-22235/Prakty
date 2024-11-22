@@ -1,0 +1,231 @@
+.baner {
+  display: flex;
+  justify-content: space-between;
+  width: fixed 1440px;
+  height: hug 84px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  padding-right: 105px;
+  padding-left: 105px;
+  background-color: rgba(245, 247, 250, 1);
+}
+
+.menu li {
+  display: inline-flex;
+  text-align: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  width: fill 660px;
+  height: fill 40px;
+  max-width: 660px;
+  color: rgba(24, 25, 31, 1);
+}
+
+.baner.logo {
+  width: hug (154.5px);
+  height: hug(24px);
+  gap: 8px;
+}
+
+.baner.przyciski {
+  width: Hug 182px;
+  height: hug 40px;
+  margin-top: 20px;
+  gap: 14px;
+}
+body {
+  background-color: white;
+}
+
+.sekcja1 {
+  display: flex;
+  width: fill 1440px;
+  height: 599px;
+  padding-top: 96px;
+  padding-bottom: 96px;
+  padding-left: 144px;
+  padding-right: 144px;
+  gap: 104px;
+  background-color: #f5f7fa;
+  align-items: flex-start;
+}
+
+.sekcja1 .lewy {
+  width: fill 657px;
+  height: 276px;
+  gap: 32px;
+}
+
+.sekcja1 h1 {
+  font-size: 64px;
+  line-height: 76px;
+  font-weight: 600;
+  width: 657px;
+  height: 152px;
+  color: #4d4d4d;
+}
+
+.sekcja1 p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #717171;
+  width: 657px;
+  height: 24px;
+}
+.dots {
+  text-align: center;
+  background-color: #f5f7fa;
+  padding-bottom: 10px;
+}
+
+.stopka1 {
+  text-align: center;
+  width: fixed 1440px;
+  height: 190px;
+  padding: left, right 144px;
+  gap: 16px;
+  background-color: white;
+}
+
+.stopka1 .text {
+  width: fixed 1110px;
+  height: 76px;
+  gap: 8px;
+}
+
+.stopka1 h2 {
+  font-weight: 600;
+  size: 36px;
+  line-height: 44px;
+  color: #4d4d4d;
+}
+
+.stopka1 p {
+  font-weight: 400;
+  size: 16px;
+  line-height: 24px;
+  color: #717171;
+}
+
+.loga {
+  width: fill 1152px;
+  height: fixed 98px;
+  justify-content: space-between;
+  word-spacing: 136px;
+  padding-top: 25px;
+}
+
+.sekcja2 {
+  text-align: center;
+  background-color: white;
+  color: #4d4d4d;
+  width: fixed 1440px;
+  height: 416px;
+}
+
+.sekcja2 .text2 {
+  width: fixed 1440px;
+  height: 120px;
+  gap: 8px;
+}
+
+.sekcja2 h2 {
+  font-weight: 600;
+  size: 36px;
+  line-height: 44px;
+}
+
+.sekcja2 p {
+  font-weight: 400;
+  size: 16px;
+  line-height: 24px;
+  color: #717171;
+}
+
+.sekcja2_1 {
+  width: fixed 1440px;
+  height: 280px;
+  justify-content: space-between;
+  padding-left: 144px;
+  padding-right: 144px;
+  display: flex;
+}
+
+.sekcja2_1 h3 {
+  width: fill 267px;
+  height: fill 72px;
+  font-weight: 700;
+  size: 28px;
+  line-height: 36px;
+  color: #4d4d4d;
+}
+
+.sekcja2_1 p {
+  width: 251px;
+  height: fill 60px;
+  font-weight: 400;
+  size: 14px;
+  line-height: 20px;
+  color: #717171;
+}
+
+.box1 {
+  width: fixed 299px;
+  height: 260px;
+  border-radius: 8px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-right: 32px;
+  padding-left: 32px;
+  gap: 8px;
+  text-align: center;
+}
+
+.box2 {
+  width: fixed 299px;
+  height: 260px;
+  border-radius: 8px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-right: 32px;
+  padding-left: 32px;
+  gap: 8px;
+  text-align: center;
+}
+
+.box3 {
+  width: fixed 299px;
+  height: 260px;
+  border-radius: 8px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-right: 32px;
+  padding-left: 32px;
+  gap: 8px;
+  text-align: center;
+}
+
+.przycisk1 {
+  width: 77px;
+  height: 40px;
+  border-radius: 6px;
+  padding: top, bottom 10px;
+  padding: left, right 20px;
+  gap: 10px;
+  background-color: #f5f7fa;
+  border-color: #f5f7fa;
+  color: #4caf4f;
+}
+
+.przycisk2 {
+  width: 91px;
+  height: 40px;
+  border-radius: 6px;
+  padding: top, bottom 10px;
+  padding: left, right 20px;
+  gap: 10px;
+  background-color: #4caf4f;
+  color: #f5f7fa;
+  border-color: #4caf4f;
+}
