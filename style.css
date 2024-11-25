@@ -180,6 +180,7 @@ body {
   padding-left: 32px;
   gap: 8px;
   text-align: center;
+  box-shadow: 0px 2px 4px 0px #abbed133;
 }
 
 .box2 {
@@ -192,6 +193,7 @@ body {
   padding-left: 32px;
   gap: 8px;
   text-align: center;
+  box-shadow: 0px 2px 4px 0px #abbed133;
 }
 
 .box3 {
@@ -204,6 +206,44 @@ body {
   padding-left: 32px;
   gap: 8px;
   text-align: center;
+  box-shadow: 0px 2px 4px 0px #abbed133;
+}
+.sekcja2_2 {
+  display: flex;
+  width: Fixed (1, 440px) px;
+  height: Hug (433px) px;
+  gap: 0px;
+  opacity: 0px;
+  justify-content: space-between;
+  padding: 0px 144px 0px 144px;
+}
+.sekcja2_2_1 {
+  align-content: flex-start;
+  padding-top: 30px;
+  width: fixed (661px) px;
+  height: hug (268px) px;
+  gap: 32px;
+  opacity: 0px;
+}
+.sekcja2_2 svg {
+  width: 442px;
+  height: 433px;
+}
+.sekcja2_2 h2 {
+  width: 601px;
+  height: 88px;
+  font-weight: 600;
+  size: 36px;
+  line-height: 44px;
+  color: #4d4d4d;
+}
+.sekcja2_2 p {
+  height: 80px;
+  width: 601px;
+  font-weight: 400;
+  size: 14px;
+  line-height: 20px;
+  color: #717171;
 }
 
 .przycisk1 {
