@@ -237,6 +237,14 @@ body {
   line-height: 44px;
   color: #4d4d4d;
 }
+
+.sekcja2_3 {
+  background-color: #f5f7fa;
+  width: fixed (1, 440px) px;
+  height: Hug (288px) px;
+  justify-content: space-between;
+  padding: 64px 144px 64px 144px;
+}
 .sekcja2_2 p {
   height: 80px;
   width: 601px;
