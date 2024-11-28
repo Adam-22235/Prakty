@@ -218,7 +218,7 @@ body {
   padding: 0px 144px 0px 144px;
 }
 .sekcja2_2_1 {
-  align-content: flex-start;
+  text-align: left;
   padding-top: 30px;
   width: fixed (661px) px;
   height: hug (268px) px;
@@ -238,13 +238,6 @@ body {
   color: #4d4d4d;
 }
 
-.sekcja2_3 {
-  background-color: #f5f7fa;
-  width: fixed (1, 440px) px;
-  height: Hug (288px) px;
-  justify-content: space-between;
-  padding: 64px 144px 64px 144px;
-}
 .sekcja2_2 p {
   height: 80px;
   width: 601px;
@@ -252,6 +245,105 @@ body {
   size: 14px;
   line-height: 20px;
   color: #717171;
+}
+
+.sekcja2_3 {
+  background-color: #f5f7fa;
+  width: fixed (1, 440px) px;
+  height: Hug (288px) px;
+  justify-content: space-between;
+  padding: 64px 144px 64px 144px;
+  text-align: left;
+  display: flex;
+}
+.text3 {
+  width: fixed (540px) px;
+  height: Hug (120px) px;
+  gap: 8px;
+}
+
+.text3 h2 {
+  width: 408px;
+  height: 88px;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 44px;
+  text-align: left;
+}
+
+.text3 p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.sekcja2_3_1 {
+  width: Hug (540px) px;
+  height: Hug (160px) px;
+  gap: 40px;
+  opacity: 0px;
+}
+
+.sekcja2_3_1 h3 {
+  width: 191px;
+  height: 36px;
+  font-weight: 700;
+  size: 28px;
+  line-height: 36px;
+  color: #4d4d4d;
+}
+.sekcja2_3_1 p {
+  width: 191px;
+  height: 24px;
+  font-weight: 400;
+  size: 16px;
+  line-height: 24px;
+  color: #717171;
+}
+
+.sekcja2_4 {
+  display: flex;
+  width: Fixed (1, 440px) px;
+  height: Hug (433px) px;
+  gap: 0px;
+  opacity: 0px;
+  justify-content: space-between;
+  padding: 0px 144px 0px 144px;
+}
+
+.sekcja2_4 svg {
+  width: 441.53px;
+  height: 433.4px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.sekcja2_4_1 {
+  text-align: left;
+  width: Fixed (661px) px;
+  height: Hug (308px) px;
+  gap: 32px;
+  opacity: 0px;
+}
+.sekcja2_4_1 h2 {
+  text-align: left;
+  width: 601px;
+  height: 88px;
+  font-weight: 600;
+  size: 36px;
+  line-height: 44px;
+  color: #4d4d4d;
+}
+
+.sekcja2_4_1 p {
+  text-align: left;
+  max-width: fill 601px;
+  max-height: 120px;
+  font-weight: 400;
+  size: 14px;
+  line-height: 20px;
+  word-wrap: auto;
 }
 
 .przycisk1 {
@@ -277,4 +369,3 @@ body {
   color: #f5f7fa;
   border-color: #4caf4f;
 }
-
