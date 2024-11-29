@@ -313,8 +313,8 @@ body {
 }
 
 .sekcja2_4 svg {
-  width: 441.53px;
-  height: 433.4px;
+  min-width: 441.53px;
+  min-height: 433.4px;
   gap: 0px;
   opacity: 0px;
 }
