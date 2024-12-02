@@ -346,6 +346,42 @@ body {
   word-wrap: auto;
 }
 
+.sekcja2_5 {
+  display: flex;
+  width: fixed 1, 440px;
+  height: 390px;
+  padding: 32px 144px 32px 144px;
+  gap: 78px;
+  background-color: #f5f7fa;
+  text-align: left;
+}
+
+.sekcja2_5 .log {
+  min-height: 326px;
+  min-width: 326px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.sekcja2_5 h4 {
+  font-weight: 600;
+  size: 20px;
+  line-height: 28px;
+  color: #4caf4f;
+}
+
+.marki li {
+  display: inline-flex;
+  text-align: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  width: fill 748px;
+  height: Hug 48px;
+  gap: 32px;
+  max-width: 660px;
+}
+
 .przycisk1 {
   width: 77px;
   height: 40px;
